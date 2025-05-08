@@ -1,4 +1,4 @@
-                                                        🔤 Advanced Vowel Checker Web App
+                    🔤 Advanced Vowel Checker Web App
 
 The **Advanced Vowel Checker and Counter** is an interactive web application that analyzes the number of vowels in user-entered text in real-time. 
 It enhances the user experience with **visualizations**, **highlighted vowel displays**, **dark mode**, **voice input**, and **downloadable results**.
