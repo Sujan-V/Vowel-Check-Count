@@ -56,5 +56,5 @@ It enhances the user experience with **visualizations**, **highlighted vowel dis
 ![image](https://github.com/user-attachments/assets/2775ba07-3e45-4590-b791-2528460a8eb9)
 
 
-Live Demo : 
+Live Demo : https://sujan-v.github.io/Vowel-Check-Count/
 
