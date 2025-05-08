@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Advanced Vowel Checker</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.min.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>Advanced Vowel Checker</h1>
+    <textarea id="inputText" placeholder="Enter Your Text Here"></textarea>
+    <div class="buttons">
+      <button onclick="startSpeech()">🎤 Voice Input</button>
+      <button onclick="toggleDarkMode()">🌓 Toggle Dark Mode</button>
+      <button onclick="copyResult()">📋 Copy Result</button>
+      <button onclick="saveToFile()">💾 Save</button>
+    </div>
+    <div class="result" id="result">Result will appear here...</div>
+    <canvas id="vowelChart" width="400" height="200"></canvas>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
